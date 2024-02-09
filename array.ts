@@ -1,3 +1,4 @@
+// 10 minutes
 /*
 input: arr: array, size: number
 Question: create sub arrays with given size.
@@ -22,5 +23,5 @@ Output: []
  */
 
 function solution(arr: number[], size: number){
-    
+
 }
